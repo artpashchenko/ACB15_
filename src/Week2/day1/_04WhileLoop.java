@@ -1,0 +1,27 @@
+package Week2.day1;
+
+/**
+ * Created by IntelliJ IDEA.
+ * User: Артем
+ * Date: 16.04.16
+ * Time: 19:44
+ * To change this template use File | Settings | File Templates.
+ */
+public class _04WhileLoop {
+    public static void main(String[] args) throws InterruptedException {
+
+//        start -> condition -> way
+
+        int account = 2000;
+        int years = 0;
+        while (account < 100000){
+             Thread.sleep(1000);
+            System.out.println(years);
+            years++;
+            account +=  20000;
+        }
+        System.out.println("Passed " + years + " years");
+
+
+    }
+}
