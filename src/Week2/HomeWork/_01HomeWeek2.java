@@ -12,9 +12,16 @@ import utils.ArrayUtils;
 public class _01HomeWeek2 {
     public static void main(String[] args) {
 
-        int[] nums = ArrayUtils.createRandomArray(14, 1, 34);
+        /*int[] nums = ArrayUtils.createRandomArray(14, 1, 34);
         ArrayUtils.printArray(nums);
         ArrayUtils.bubbleSort(nums);
-        System.out.printf("Min Value is  %d , Max Value is  %d ",nums[0], nums[nums.length - 1]);
+        System.out.printf("Min Value is  %d , Max Value is  %d ",nums[0], nums[nums.length - 1]);*/
+
+       int[] nums = ArrayUtils.createRandomArray(14, 1, 34);
+        ArrayUtils.printArray(nums);
+        ArrayUtils.findMinMaxArrayValue(nums);
+        System.out.println(nums);
+
+
     }
 }

@@ -69,6 +69,42 @@ public class ArrayUtils {
         return sum / 2;
 
     }
+
+    public static String findMinMaxArrayValue(int[] array) {
+        int max = array[0];
+        int min = array[0];
+        String result = null;
+        for (int i = 0; i != array.length; i++) {
+            if (array[i] > max) {
+                max = array[i];
+            }
+            if (array[i] < min) {
+                min = array[i];
+            }
+            result = "min val: " + min + " max val: " + max;
+        }
+        return result;
+
+    }
+
+    public static int[] arrayToOtherArray(int[] array1, int[] array2){
+        for (int i = 0; i < array1.length; i++){
+            array2[i] = array1[i];
+        }
+        return  array2;
+    }
+
+    public static int findValueInArray(int[] array, int value){
+        int counter = 0;
+        for (int i = 0; i < array.length - 1; i++){
+           if (value == array[i]){
+             counter ++;
+            }
+
+        }
+        return  counter;
+
+    }
 }
 
 

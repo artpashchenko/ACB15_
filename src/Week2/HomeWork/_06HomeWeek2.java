@@ -7,5 +7,5 @@ package Week2.HomeWork;
  * Time: 19:51
  * To change this template use File | Settings | File Templates.
  */
-public class _03HomeWeek2 {
+public class _06HomeWeek2 {
 }
