@@ -70,20 +70,20 @@ public class ArrayUtils {
 
     }
 
-    public static String findMinMaxArrayValue(int[] array) {
+    public static void findMinMaxArrayValue(int[] array) {
         int max = array[0];
         int min = array[0];
-        String result = null;
+
         for (int i = 0; i != array.length; i++) {
             if (array[i] > max) {
                 max = array[i];
             }
-            if (array[i] < min) {
+            else if (array[i] < min) {
                 min = array[i];
             }
-            result = "min val: " + min + " max val: " + max;
+
         }
-        return result;
+        System.out.println("Min: " + min + " Max: " + max);;
 
     }
 
@@ -104,6 +104,44 @@ public class ArrayUtils {
         }
         return  counter;
 
+    }
+    
+    public static int[] createOddEvenArray(int size, int min, int max){
+        int[] array = new int[size];
+        for(int i = 0; i < array.length; i++){
+            int random = (int)(min + Math.random() * (max - min));
+            if(i % 2 == 0){
+                array[i] = random % 2 == 0 ? random : ++random;
+                /*if (random % 2 == 0)
+                array[i] = random;
+                else
+                    array[i] = ++random;*/
+//                even number
+            }else{
+                array[i] = random % 2 == 0 ? ++random : random;
+//                Odd number
+                /*if (random % 2 == 0)
+                array[i] = ++random;
+                else
+                    array[i] = random;*/
+            }
+        }
+        return array;
+    }
+
+    public  static void bubbleSort(String[] array){
+        for (int j = array.length; j > 0; j--){
+            for (int i = 0; i < j - 1; i++){
+                if (array[i].compareTo(array[i + 1]) > 0) {
+//                    swap
+                    String tmp = array[i+1];
+                    array[i+1]  = array[i];
+                    array[i] = tmp;
+
+                }
+            }
+
+        }
     }
 }
 

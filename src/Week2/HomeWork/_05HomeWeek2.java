@@ -18,8 +18,8 @@ public class _05HomeWeek2 {
         int num = sc.nextInt();
         int[] randomArray = ArrayUtils.createRandomArray(34, 1, 34);
         ArrayUtils.printArray(randomArray);
-        ArrayUtils.findValueInArray(randomArray, num);
-        System.out.println("Your Value " + num + " found " + randomArray + " times in array.");
+        int count = ArrayUtils.findValueInArray(randomArray, num);
+        System.out.println("Your Value " + num + " found " + count + " times in array.");
 
 
     }

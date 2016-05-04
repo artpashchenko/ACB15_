@@ -6,12 +6,27 @@
   <component name="ChangeListManager">
     <list id="ffeacc10-fbad-4dc9-ae5a-a685e8a01940" name="Default" comment="" />
     <list default="true" id="1adf91e0-9567-4e04-86fb-02375e66df4e" name="New changelist" comment="home">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Week2/HomeWork/_04HomeWeek2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Week2/HomeWork/_05HomeWeek2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Week2/HomeWork/_06HomeWeek2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Week2/HomeWork/_08HomeWeek2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Week3/Lotery/LotteryUtils.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Week3/Lotery/_Lotery.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Week3/_Home1StringCoddingBat/_ExtraEndStr1.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Week3/_Home1StringCoddingBat/_FirstHalfStr1.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Week3/_Home1StringCoddingBat/_FirstTwoStr1.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Week3/_Home1StringCoddingBat/_MidleTwoStr1.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Week3/_Home1StringCoddingBat/_comboStringStr1.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Week3/day1/_01StringCreation.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Week3/day1/_02StringMethods.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Week3/day1/_03TestStringSort.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Week3/day1/_04Wrappers.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Week3/day1/_05MultiArrays.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Week3/day2/_02_OnceMoreAboutMatrix.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Week3/day2/_04Recursion.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Week3/day2/_05StackOverFlow.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Week3/lot2/_lottery.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/utils/MatrixUtils.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Week2/HomeWork/_01HomeWeek2.java" afterPath="$PROJECT_DIR$/src/Week2/HomeWork/_01HomeWeek2.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Week2/HomeWork/_03HomeWeek2.java" afterPath="$PROJECT_DIR$/src/Week2/HomeWork/_03HomeWeek2.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Week2/HomeWork/_05HomeWeek2.java" afterPath="$PROJECT_DIR$/src/Week2/HomeWork/_05HomeWeek2.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/utils/ArrayUtils.java" afterPath="$PROJECT_DIR$/src/utils/ArrayUtils.java" />
     </list>
     <ignored path="ACB15.iws" />
@@ -77,8 +92,8 @@
       <property name="field_breakpoints_groupByClasses" value="true" />
       <property name="method_breakpoints_groupByClasses" value="true" />
       <property name="exception_breakpoints_viewId" value="TABLE" />
-      <property name="field_breakpoints_viewId" value="TABLE" />
       <property name="exception_breakpoints_groupByClasses" value="true" />
+      <property name="field_breakpoints_viewId" value="TABLE" />
       <property name="method_breakpoints_groupByMethods" value="false" />
     </ui_properties>
   </component>
@@ -87,10 +102,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="_05HomeWeek2.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Week2/HomeWork/_05HomeWeek2.java">
+      <file leaf-file-name="_lottery.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Week3/lot2/_lottery.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="23" column="57" selection-start="713" selection-end="713" vertical-scroll-proportion="0.0">
+            <state line="80" column="40" selection-start="2386" selection-end="2386" vertical-scroll-proportion="0.0">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -98,82 +113,82 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_04HomeWeek2.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Week2/HomeWork/_04HomeWeek2.java">
+      <file leaf-file-name="_01StringCreation.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Week3/day1/_01StringCreation.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="16" selection-start="216" selection-end="216" vertical-scroll-proportion="0.0">
+            <state line="12" column="31" selection-start="269" selection-end="291" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_06HomeWeek2.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Week2/HomeWork/_06HomeWeek2.java">
+      <file leaf-file-name="_02StringMethods.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Week3/day1/_02StringMethods.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="31" selection-start="0" selection-end="205" vertical-scroll-proportion="0.0">
+            <state line="64" column="53" selection-start="1714" selection-end="1714" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_03HomeWeek2.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Week2/HomeWork/_03HomeWeek2.java">
+      <file leaf-file-name="_ExtraEndStr1.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Week3/_Home1StringCoddingBat/_ExtraEndStr1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="38" selection-start="205" selection-end="205" vertical-scroll-proportion="0.0">
+            <state line="14" column="16" selection-start="324" selection-end="437" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_01HomeWeek2.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Week2/HomeWork/_01HomeWeek2.java">
+      <file leaf-file-name="_FirstTwoStr1.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Week3/_Home1StringCoddingBat/_FirstTwoStr1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="24" column="0" selection-start="694" selection-end="694" vertical-scroll-proportion="0.5677966">
+            <state line="11" column="17" selection-start="280" selection-end="280" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_09StringMethods.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Week2/day2/_09StringMethods.java">
+      <file leaf-file-name="_MidleTwoStr1.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Week3/_Home1StringCoddingBat/_MidleTwoStr1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="13" selection-start="184" selection-end="184" vertical-scroll-proportion="0.0">
+            <state line="21" column="77" selection-start="664" selection-end="664" vertical-scroll-proportion="0.57734805">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_08String.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Week2/day2/_08String.java">
+      <file leaf-file-name="_FirstHalfStr1.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Week3/_Home1StringCoddingBat/_FirstHalfStr1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="13" selection-start="210" selection-end="210" vertical-scroll-proportion="0.0">
+            <state line="9" column="13" selection-start="202" selection-end="202" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_07TestBubbleSort.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Week2/day2/_07TestBubbleSort.java">
+      <file leaf-file-name="_comboStringStr1.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Week3/_Home1StringCoddingBat/_comboStringStr1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="13" selection-start="210" selection-end="210" vertical-scroll-proportion="0.0">
+            <state line="19" column="10" selection-start="361" selection-end="493" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_06SimpleSort.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Week2/day2/_06SimpleSort.java">
+      <file leaf-file-name="_04Farmatter.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Week2/day2/_04Farmatter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="13" selection-start="236" selection-end="236" vertical-scroll-proportion="0.0">
+            <state line="15" column="39" selection-start="398" selection-end="398" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_05WorkWithArrays.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Week2/day2/_05WorkWithArrays.java">
+      <file leaf-file-name="homeTask2_4.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Week1/day2/homeTask2/homeTask2_4.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="13" selection-start="210" selection-end="210" vertical-scroll-proportion="0.0">
+            <state line="11" column="13" selection-start="221" selection-end="221" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -194,22 +209,22 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/Week2/day1/_05WorkWithArrays.java" />
-        <option value="$PROJECT_DIR$/src/Week2/day2/_05WorkWithArrays.java" />
-        <option value="$PROJECT_DIR$/src/Week2/day2/_06SimpleSort.java" />
-        <option value="$PROJECT_DIR$/src/Week2/day2/_07TestBubbleSort.java" />
-        <option value="$PROJECT_DIR$/src/Week2/day2/_08String.java" />
-        <option value="$PROJECT_DIR$/src/Week2/day2/_09StringMethods.java" />
-        <option value="$PROJECT_DIR$/src/Week2/home/Home.java" />
-        <option value="$PROJECT_DIR$/src/Week2/home/_01HomeWeek2.java" />
-        <option value="$PROJECT_DIR$/src/Week2/day2/_04Farmatter.java" />
-        <option value="$PROJECT_DIR$/src/Week2/HomeWork/_02HomeWeek2.java" />
-        <option value="$PROJECT_DIR$/src/Week2/HomeWork/_01HomeWeek2.java" />
+        <option value="$PROJECT_DIR$/src/Week3/day1/_01StringCreation.java" />
+        <option value="$PROJECT_DIR$/src/Week3/day1/_02StringMethods.java" />
+        <option value="$PROJECT_DIR$/src/Week3/day1/_03TestStringSort.java" />
+        <option value="$PROJECT_DIR$/src/Week3/day1/_04Wrappers.java" />
+        <option value="$PROJECT_DIR$/src/Week3/day1/_05MultiArrays.java" />
+        <option value="$PROJECT_DIR$/src/Week3/day2/_02_OnceMoreAboutMatrix.java" />
+        <option value="$PROJECT_DIR$/src/Week3/day2/_05StackOverFlow.java" />
+        <option value="$PROJECT_DIR$/src/Week3/Lotery/_Lotery.java" />
         <option value="$PROJECT_DIR$/src/utils/ArrayUtils.java" />
-        <option value="$PROJECT_DIR$/src/Week2/HomeWork/_04HomeWeek2.java" />
-        <option value="$PROJECT_DIR$/src/Week2/HomeWork/_06HomeWeek2.java" />
-        <option value="$PROJECT_DIR$/src/Week2/HomeWork/_03HomeWeek2.java" />
-        <option value="$PROJECT_DIR$/src/Week2/HomeWork/_05HomeWeek2.java" />
+        <option value="$PROJECT_DIR$/src/Week3/Lotery/LotteryUtils.java" />
+        <option value="$PROJECT_DIR$/src/Week3/lot2/_lottery.java" />
+        <option value="$PROJECT_DIR$/src/Week3/_Home1StringCoddingBat/_ExtraEndStr1.java" />
+        <option value="$PROJECT_DIR$/src/Week3/_Home1StringCoddingBat/_FirstTwoStr1.java" />
+        <option value="$PROJECT_DIR$/src/Week3/_Home1StringCoddingBat/_FirstHalfStr1.java" />
+        <option value="$PROJECT_DIR$/src/Week3/_Home1StringCoddingBat/_comboStringStr1.java" />
+        <option value="$PROJECT_DIR$/src/Week3/_Home1StringCoddingBat/_MidleTwoStr1.java" />
       </list>
     </option>
   </component>
@@ -245,6 +260,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -277,33 +293,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Week2" />
+              <option name="myItemId" value="Week3" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="HomeWork" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ACB15" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ACB15" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Week2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="day2" />
+              <option name="myItemId" value="Lotery" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -321,7 +315,47 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Week2" />
+              <option name="myItemId" value="Week3" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lot2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ACB15" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ACB15" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Week3" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ACB15" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ACB15" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Week3" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -343,7 +377,47 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Week1" />
+              <option name="myItemId" value="Week3" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="_Home1StringCoddingBat" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ACB15" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ACB15" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Week2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ACB15" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ACB15" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Week2" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -366,36 +440,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="Week1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="day2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="homeTask2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ACB15" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ACB15" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Week1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="day1" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -419,24 +463,23 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="project.structure.last.edited" value="Modules" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth0" value="139" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth1" value="157" />
     <property name="project.structure.proportion" value="0.0" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth1" value="157" />
     <property name="options.splitter.main.proportions" value="0.3" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth0" value="154" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder1" value="1" />
-    <property name="MemberChooser.sorted" value="false" />
     <property name="recentsLimit" value="5" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder1" value="1" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth0" value="154" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder0" value="0" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth2" value="159" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth3" value="833" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth3" value="828" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth3" value="833" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth2" value="154" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth1" value="152" />
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
@@ -454,18 +497,18 @@
     <property name="options.lastSelected" value="project.propVCSSupport.VCSs.Git" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="MemberChooser.copyJavadoc" value="false" />
-    <property name="options.searchVisible" value="true" />
     <property name="dynamic.classpath" value="false" />
+    <property name="options.searchVisible" value="true" />
   </component>
-  <component name="RunManager" selected="Application._04HomeWeek2">
-    <configuration default="false" name="_09StringMethods" type="Application" factoryName="Application" temporary="true">
+  <component name="RunManager" selected="Application._MidleTwoStr1">
+    <configuration default="false" name="_ExtraEndStr1" type="Application" factoryName="Application" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="Week2.day2.*" />
+          <option name="PATTERN" value="Week3._Home1StringCoddingBat.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="Week2.day2._09StringMethods" />
+      <option name="MAIN_CLASS_NAME" value="Week3._Home1StringCoddingBat._ExtraEndStr1" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -480,14 +523,14 @@
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
-    <configuration default="false" name="_01HomeWeek2" type="Application" factoryName="Application" temporary="true">
+    <configuration default="false" name="_FirstTwoStr1" type="Application" factoryName="Application" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="Week2.HomeWork.*" />
+          <option name="PATTERN" value="Week3._Home1StringCoddingBat.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="Week2.HomeWork._01HomeWeek2" />
+      <option name="MAIN_CLASS_NAME" value="Week3._Home1StringCoddingBat._FirstTwoStr1" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -502,14 +545,14 @@
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
-    <configuration default="false" name="_02HomeWeek2" type="Application" factoryName="Application" temporary="true">
+    <configuration default="false" name="_FirstHalfStr1" type="Application" factoryName="Application" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="Week2.HomeWork.*" />
+          <option name="PATTERN" value="Week3._Home1StringCoddingBat.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="Week2.HomeWork._02HomeWeek2" />
+      <option name="MAIN_CLASS_NAME" value="Week3._Home1StringCoddingBat._FirstHalfStr1" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -524,14 +567,14 @@
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
-    <configuration default="false" name="_03HomeWeek2" type="Application" factoryName="Application" temporary="true">
+    <configuration default="false" name="_comboStringStr1" type="Application" factoryName="Application" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="Week2.HomeWork.*" />
+          <option name="PATTERN" value="Week3._Home1StringCoddingBat.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="Week2.HomeWork._03HomeWeek2" />
+      <option name="MAIN_CLASS_NAME" value="Week3._Home1StringCoddingBat._comboStringStr1" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -546,14 +589,14 @@
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
-    <configuration default="false" name="_04HomeWeek2" type="Application" factoryName="Application" temporary="true">
+    <configuration default="false" name="_MidleTwoStr1" type="Application" factoryName="Application" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="Week2.HomeWork.*" />
+          <option name="PATTERN" value="Week3._Home1StringCoddingBat.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="Week2.HomeWork._04HomeWeek2" />
+      <option name="MAIN_CLASS_NAME" value="Week3._Home1StringCoddingBat._MidleTwoStr1" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -591,6 +634,24 @@
         <option name="Maven.BeforeRunTask" enabled="false" />
       </method>
     </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method>
+        <option name="AntTarget" enabled="false" />
+        <option name="BuildArtifacts" enabled="false" />
+        <option name="Make" enabled="true" />
+        <option name="Maven.BeforeRunTask" enabled="false" />
+      </method>
+    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
@@ -617,24 +678,6 @@
       <envs />
       <properties />
       <listeners />
-      <method>
-        <option name="AntTarget" enabled="false" />
-        <option name="BuildArtifacts" enabled="false" />
-        <option name="Make" enabled="true" />
-        <option name="Maven.BeforeRunTask" enabled="false" />
-      </method>
-    </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
       <method>
         <option name="AntTarget" enabled="false" />
         <option name="BuildArtifacts" enabled="false" />
@@ -689,11 +732,11 @@
       </method>
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application._09StringMethods" />
-      <item index="1" class="java.lang.String" itemvalue="Application._01HomeWeek2" />
-      <item index="2" class="java.lang.String" itemvalue="Application._02HomeWeek2" />
-      <item index="3" class="java.lang.String" itemvalue="Application._03HomeWeek2" />
-      <item index="4" class="java.lang.String" itemvalue="Application._04HomeWeek2" />
+      <item index="0" class="java.lang.String" itemvalue="Application._ExtraEndStr1" />
+      <item index="1" class="java.lang.String" itemvalue="Application._FirstTwoStr1" />
+      <item index="2" class="java.lang.String" itemvalue="Application._FirstHalfStr1" />
+      <item index="3" class="java.lang.String" itemvalue="Application._comboStringStr1" />
+      <item index="4" class="java.lang.String" itemvalue="Application._MidleTwoStr1" />
     </list>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
       <Host>localhost</Host>
@@ -732,7 +775,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="754" extended-state="0" />
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32941177" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -744,13 +787,13 @@
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32941177" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32941177" sideWeight="0.42261" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32941177" sideWeight="0.42261" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32941177" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24962063" sideWeight="0.67058825" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.31932774" sideWeight="0.48103186" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22534142" sideWeight="0.68403363" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3159664" sideWeight="0.48103186" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -815,112 +858,104 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Week2/day2/_01branchingStatements.java">
+    <entry file="file://$PROJECT_DIR$/src/Week2/HomeWork/_05HomeWeek2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="32" column="55" selection-start="770" selection-end="770" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Week2/day2/_02breakStatement.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="13" selection-start="210" selection-end="210" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Week2/day2/_03SocialNetworl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="13" selection-start="210" selection-end="210" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Week2/HomeWork/_02HomeWeek2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="74" selection-start="495" selection-end="495" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Week1/day2/homeTask2/homeTask2_3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="42" selection-start="288" selection-end="413" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="18" column="39" selection-start="487" selection-end="487" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/utils/ArrayUtils.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="101" column="13" selection-start="2664" selection-end="2664" vertical-scroll-proportion="0.0">
+        <state line="45" column="30" selection-start="1243" selection-end="1243" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/utils/MatrixUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="13" selection-start="179" selection-end="179" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Week3/day1/_03TestStringSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="49" selection-start="457" selection-end="457" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Week3/Lotery/_Lotery.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="25" selection-start="402" selection-end="402" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Week3/Lotery/LotteryUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="13" selection-start="212" selection-end="212" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Week2/day2/_09StringMethods.java">
+    <entry file="file://$PROJECT_DIR$/src/Week1/day2/homeTask2/homeTask2_4.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="13" selection-start="184" selection-end="184" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Week2/day2/_08String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="13" selection-start="210" selection-end="210" vertical-scroll-proportion="0.0">
+        <state line="11" column="13" selection-start="221" selection-end="221" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Week2/day2/_07TestBubbleSort.java">
+    <entry file="file://$PROJECT_DIR$/src/Week3/lot2/_lottery.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="13" selection-start="210" selection-end="210" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Week2/day2/_06SimpleSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="13" selection-start="236" selection-end="236" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Week2/day2/_05WorkWithArrays.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="13" selection-start="210" selection-end="210" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Week2/HomeWork/_04HomeWeek2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="16" selection-start="216" selection-end="216" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Week2/HomeWork/_06HomeWeek2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="31" selection-start="0" selection-end="205" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Week2/HomeWork/_03HomeWeek2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="38" selection-start="205" selection-end="205" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Week2/HomeWork/_05HomeWeek2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="57" selection-start="713" selection-end="713" vertical-scroll-proportion="0.0">
+        <state line="80" column="40" selection-start="2386" selection-end="2386" vertical-scroll-proportion="0.0">
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Week2/HomeWork/_01HomeWeek2.java">
+    <entry file="file://$PROJECT_DIR$/src/Week3/day1/_01StringCreation.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="0" selection-start="694" selection-end="694" vertical-scroll-proportion="0.5677966">
+        <state line="12" column="31" selection-start="269" selection-end="291" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Week3/day1/_02StringMethods.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="64" column="53" selection-start="1714" selection-end="1714" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Week2/day2/_04Farmatter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="39" selection-start="398" selection-end="398" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Week3/_Home1StringCoddingBat/_comboStringStr1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="10" selection-start="361" selection-end="493" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Week3/_Home1StringCoddingBat/_FirstHalfStr1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="13" selection-start="202" selection-end="202" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Week3/_Home1StringCoddingBat/_FirstTwoStr1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="17" selection-start="280" selection-end="280" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Week3/_Home1StringCoddingBat/_ExtraEndStr1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="16" selection-start="324" selection-end="437" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Week3/_Home1StringCoddingBat/_MidleTwoStr1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="77" selection-start="664" selection-end="664" vertical-scroll-proportion="0.57734805">
           <folding />
         </state>
       </provider>

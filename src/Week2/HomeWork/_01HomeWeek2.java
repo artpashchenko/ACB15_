@@ -20,7 +20,7 @@ public class _01HomeWeek2 {
        int[] nums = ArrayUtils.createRandomArray(14, 1, 34);
         ArrayUtils.printArray(nums);
         ArrayUtils.findMinMaxArrayValue(nums);
-        System.out.println(nums);
+
 
 
     }
