@@ -22,10 +22,7 @@ public class _03ForLoop {
             numbers2[c] = c;
             System.out.println(c);
         }
-        int i = 0;
-        for(;;){
 
-        }
 
 
     }
