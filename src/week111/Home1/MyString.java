@@ -34,8 +34,10 @@ public class MyString {
         for (int i = 0; i < charArray.length; i++) {
             System.out.print(charArray[i]);
         }
+        System.out.println();
     }
-
+// todo
+//    public MyString concat(MyString nextString) {
     public MyString concat(String nextString) {
         if (nextString == null) {
             return new MyString(charArray);
@@ -69,13 +71,13 @@ public class MyString {
 
         return new MyString(upper);
     }
-
+// todo String -> MyString
     public boolean contains(String yourString) {
 
         if (yourString == null || this.length() < yourString.length()) {
             return false;
         }
-        boolean answer = false;
+//        boolean answer = false;
         for (int i = 0; i < this.length(); i++) {
             char[] yourCharArray = yourString.toCharArray();
             if (charArray[i] == yourCharArray[0]) {
@@ -83,17 +85,15 @@ public class MyString {
                     return false;
                 }
                 for (int j = 0; j < yourString.length() - 1; j++) {
-                    if (this.charArray[i + j] == yourCharArray[j]) {
-                        answer = true;
-                    } else {
-                        answer = false;
-                        break;
+                    if (this.charArray[i + j] != yourCharArray[j]) {
+//                        answer = true
+                       return false;
                     }
                 }
             }
 
         }
-        return answer;
+        return true;
     }
 
 
